@@ -1,4 +1,4 @@
-# 🎵 Deemix Downloader
+# 🎵 Deemix Downloader by RillMaster
 
 A simple Python script to download music from Deezer via [deemix](https://deemix.app/) — tracks, albums, artists and playlists in seconds.
 
@@ -176,4 +176,4 @@ Please respect Deezer's terms of service and the copyright laws of your country.
 
 ## 📄 License
 
-MIT — free to use and modify.
+This project is licensed under the [MIT License](LICENSE).
