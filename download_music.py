@@ -1,8 +1,8 @@
 import subprocess
 import re
 
-OUTPUT_DIR = "/home/rillmaster/music"
-DEEMIX     = "/home/rillmaster/.local/bin/deemix"
+OUTPUT_DIR = ""
+DEEMIX     = ""
 
 # ── Supported link types ──────────────────────────────────────────────────────
 URL_TYPES = {
