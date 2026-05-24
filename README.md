@@ -1,13 +1,13 @@
 # 🎵 Deemix Downloader
 
-A simple Python script to download music from Deezer via [deemix](https://deemix.app/) — tracks, albums, artists and playlists in seconds.
+A simple Python script to download music from Deezer via [deemix](https://deemix.org) — tracks, albums, artists and playlists in seconds.
 
 ---
 
 ## ✅ Requirements
 
 - Python 3.8+
-- [deemix](https://deemix.app/) installed
+- [deemix](https://deemix.org) installed
 - A Deezer account (free or Premium)
 - Your Deezer **ARL token** (see below)
 
